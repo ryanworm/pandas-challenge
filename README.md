@@ -4,5 +4,7 @@ A variety of statistical methods were applied to get average reading and math sc
 After observing the data, my anaylsis is as follows:
 
 a) Populous schools performed worse over all, more significantly in reading. 
+
 b) Schools that spent more per student were much larger, and therefore had worse scores then schools with lower student density. This suggest smaller class sizes could be more economical and emphasizes the importance of one-on-one instruction. 
+
 c) More data should be taken to evaluate the discrepancy between reading and math scores between districts and charter schools. 3% lower average reading score decreased the passing rate by ~27% while 7% lower average math scores only decreased passing rate by 16%.
